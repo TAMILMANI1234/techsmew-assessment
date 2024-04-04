@@ -16,6 +16,22 @@
    3. Redox toolkit
    4. JSON Server
 
+## Step involved:
+    1. Create a React Project using Vite by using below command
+                          "npm create vite@latest project-name" using vite"
+    2.After, Install Tailwind CSS using 
+                           "npm install -D tailwindcss"
+                           "npx tailwindcss init -p"
+    3.Then Create component called formcomponen.jsx, mentioned in git repo and make form validation
+
+    4. For CRUD operation install redux by using
+                          "npm i @reduxjs/toolkit react-redux"
+    5.Create two files called "apislice.jsx" for creating api queries, and "store.jsx" to store application state
+    6.After write the logic for all CRUD operation in apislice.jsx the bind apislice with store mentioned in store.jsx
+    7.Finally, connect store to React UI using Providers
+
+    
+
 
 
 
