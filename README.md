@@ -13,10 +13,10 @@
  ## Used Technology
    1. Vite+React
    2. Tailwind CSS
-   3. Redox toolkit
+   3. Redux toolkit
    4. JSON Server
 
-## Step involved:
+## Steps involved:
     1. Create a React Project using Vite by using below command
                           "npm create vite@latest project-name" using vite"
     2.After, Install Tailwind CSS using 
