@@ -30,6 +30,14 @@
     6.After write the logic for all CRUD operation in apislice.jsx the bind apislice with store mentioned in store.jsx
     7.Finally, connect store to React UI using Providers
 
+### Note: 
+"studentsdata.json" : JSON file for store student data from the react application via JSON server
+
+## Run Application
+   1. First run the JSON server in the port 3500 by using
+             "json-server --watch data/studentdata.json --port 3500"
+   2. Then, run react application in development environment
+               "npm run dev"  or "npm start"
     
 
 
