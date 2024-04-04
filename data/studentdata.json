@@ -1,0 +1,22 @@
+{
+  "students": [
+    {
+      "id": "f01b",
+      "name": "Tamilmani K",
+      "age": "22",
+      "email": "k.tamilmani1234@gmail.com",
+      "mobile": "7010416422",
+      "branch": "Information Technology",
+      "place": "Tiruppur"
+    },
+    {
+      "id": "0537",
+      "name": "harris",
+      "age": "25",
+      "email": "harrissm.19it@kongu.edu",
+      "mobile": "50403166",
+      "branch": "Information Technology",
+      "place": "Erode"
+    }
+  ]
+}
